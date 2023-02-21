@@ -1,5 +1,5 @@
 from replit import clear
-#HINT: You can call clear() to clear the output in the console. This Function is available in Replit!
+#HINT:You can call clear() to clear the output in the console. This Function is available in Replit!
 from art import logo
 print(f"{logo}\n")
 print("Welcome to the secret auction program.")
